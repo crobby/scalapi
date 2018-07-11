@@ -16,7 +16,6 @@
  */
 
 // scalastyle:off println
-package org.crobby.s2i.examples
 
 import scala.math.random
 
