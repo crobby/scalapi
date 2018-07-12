@@ -17,6 +17,8 @@
 
 // scalastyle:off println
 
+package example
+
 import scala.math.random
 
 import org.apache.spark.sql.SparkSession
